@@ -1,11 +1,24 @@
-# Sample Snack app
+## Steps to Develop App:
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+- Step 1: Open the command prompt, and type expo init. (Make Sure that expo is installed).
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+If not, watch my video on how to install Expo: 
+<a href ="https://www.youtube.com/watch?v=dvuZn6gX_Q4&ab_channel=DroidpediaAcademy">Expo Installation</a>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+- Step 2: Install npm packages.
+- Step 3: Open VS Code, load file , Open App.js and start coding.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+##### Checking Output:
+- Step 1: Load Code in VS Code
+- Step 2: open terminal in VS Code,type expo start or sudo expo start.
+- Step 3: Run in desired webbower, ios simulator, android emulator
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+For More Detailed video watch :
+<a href ="https://www.youtube.com/watch?v=llveG3Qp0no&ab_channel=DroidpediaAcademy">Run an Expo app and generete .apk,.app files </a>
+
+
+##### Output Screen :
+<br/>
+
+<img src ="https://user-images.githubusercontent.com/59869563/105026792-f9e25d00-5a74-11eb-8a5c-e6840c089b19.png" 
+width="439px" height="806px">
