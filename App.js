@@ -9,7 +9,6 @@ import {
 } from "react-native";
 import ActionButton from "./components/ActionButon";
 import ChunkyActionButton from "./components/ChunkyActionButon";
-//this is a sampple commit
 
 export default class App extends React.Component {
   constructor() {
